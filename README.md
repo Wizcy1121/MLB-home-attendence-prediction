@@ -10,9 +10,10 @@
 --> **Pre-Season Attendance Prediction Model**
 
 **1. Data Features**
+
+To better predict attendance, we believe thinking in sports fans’ shoes can help us target which factors can be good candidates for the use of prediction, since fans may decide whether or not to attend a specific game after think through those factors. Considering in this perspective, we categorize factors into three categories, including team performance, players, and calendar. 
+
 <img width="896" alt="image" src="https://user-images.githubusercontent.com/92591719/231564236-fac767e5-1632-45ec-8683-3ad441535d6d.png">
-
-
 
 **2. Model Strategy**
 
@@ -31,6 +32,7 @@ We choose mean absolute percentage error as our key metric. Considering using er
 To compare our model result, we built a simple linear regression, with MAPE of 35%. And our transformer has a MAPE of 17%, which can provide nearly 20% more accuracy.
 
 <img width="896" alt="image" src="https://user-images.githubusercontent.com/92591719/231565050-b18aba24-dfdb-4ab6-a9a9-a156e0c70660.png">
+
 
 ## 2. During the season, how can we leverage new data to optimize short-term decisions
 --> **In-Season Attendance Prediction Model**
@@ -55,6 +57,11 @@ advantages of implement LightGBm as In-Season attendance prdiction model:
 
 <img width="858" alt="image" src="https://user-images.githubusercontent.com/92591719/231567037-135edeb2-6698-4bbf-a51a-a80b3e96bedc.png">
 
-## 3. Besides attendance number, How can we use Important factors to inform better operational strategies
 
+## 3. Besides attendance number, How can we use Important factors to inform better operational strategies
+--> **Interpret Important Factors from Feature Importance Graph**
+
+Following features can be categorized into the following 6 groups of statistics: 
+
+<img width="794" alt="image" src="https://user-images.githubusercontent.com/92591719/231567994-51d5bb4c-1d45-4efe-865c-d70c72376a08.png">
 
