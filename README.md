@@ -10,16 +10,24 @@
 --》**Pre-Season Attendance Prediction Model**
 **1. Data features**
 
-Team performance:                              Players:   
-Home Team/Visiting Team:                       Home Team/Visiting Team:  
-  · Season end rank,                             · # of all star players in team, 
-  · Season end Win/Loss ratio,                   · # of top 10 players in team,
-  · Total # of runs scored/allowed               · Previous season MVP in team
+Team performance:      
+
+Home Team/Visiting Team:     
+
+  · Season end rank, 
+  
+  · Season end Win/Loss ratio,   
+  
+  · Total # of runs scored/allowed               
  
+Players:
 
 Home Team/Visiting Team:
+
   · # of all star players in team,
+  
   · # of top 10 players in team,
+  
   · Previous season MVP in team
  
 Calendar
