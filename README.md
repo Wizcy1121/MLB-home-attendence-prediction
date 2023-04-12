@@ -65,3 +65,13 @@ Following features can be categorized into the following 6 groups of statistics:
 
 <img width="794" alt="image" src="https://user-images.githubusercontent.com/92591719/231567994-51d5bb4c-1d45-4efe-865c-d70c72376a08.png">
 
+**Important Factor #1: Day of Week**
+
+<img width="868" alt="image" src="https://user-images.githubusercontent.com/92591719/231568834-cd7bff5b-7eba-4f86-98e1-1bf949b30699.png">
+
+
+
+
+
+
+
