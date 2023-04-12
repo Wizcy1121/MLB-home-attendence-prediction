@@ -9,31 +9,9 @@
 ## 1. How to use data to make informed decision for long term strategies
 --》**Pre-Season Attendance Prediction Model**
 **1. Data features**
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/92591719/231564236-fac767e5-1632-45ec-8683-3ad441535d6d.png">
 
-Team performance:      
 
-Home Team/Visiting Team:     
-
-  · Season end rank, 
-  
-  · Season end Win/Loss ratio,   
-  
-  · Total # of runs scored/allowed               
- 
-Players:
-
-Home Team/Visiting Team:
-
-  · # of all star players in team,
-  
-  · # of top 10 players in team,
-  
-  · Previous season MVP in team
- 
-Calendar
-  · Year, month,
-  · Weekday number, 
-  · Holidays
 
 **2. Model strategy**
 Temporal Fusion Transformer
