@@ -8,18 +8,22 @@
 
 ## 1. How to use data to make informed decision for long term strategies
 --》**Pre-Season Attendance Prediction Model**
+
 **1. Data features**
 <img width="896" alt="image" src="https://user-images.githubusercontent.com/92591719/231564236-fac767e5-1632-45ec-8683-3ad441535d6d.png">
 
 
 
 **2. Model strategy**
+
 Temporal Fusion Transformer
+
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/92591719/231563045-3a8cd90b-5b0d-44e4-b017-b7ebcfc77beb.png">
+
 advantages:
-· Take into account the impact of all the historical data when forecasting time series
-· Capable of processing multiple heterogeneous time series data simultaneously
-· Achieve high performance across multi-time period forecasting
+
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/92591719/231564403-0609f0f3-b540-42d1-b559-b2745fe3423b.png">
+
 
 
 
