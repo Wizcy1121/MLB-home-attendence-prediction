@@ -6,8 +6,8 @@
 # Solution Map
 <img width="812" alt="image" src="https://user-images.githubusercontent.com/92591719/231561421-7c1f9e6c-8370-4ea7-889e-30a48e7faff8.png">
 
-# How to use data to make informed decision for long term strategies
-## Pre-Season Attendance Prediction Model
+## 1. How to use data to make informed decision for long term strategies
+## --》Pre-Season Attendance Prediction Model
 1. Data features
 Team performance: 
 Home Team/Visiting Team:
